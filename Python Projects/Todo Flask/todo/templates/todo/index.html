@@ -1,0 +1,33 @@
+{% extends 'todo/layout.html' %}
+
+{% block content %}
+
+
+<div class="ui container" style="margin: 50px">
+    <h1 class="ui center aligned header" style="color: #FFA3FD;">Task Manager</h1>
+
+    <form class="ui form" action="/add" method="post">
+        <div class="field">
+            <label style="color: #E384FF;">New task</label>
+            <input type="text" name="title" placeholder="Type new task" style="border-color: #865DFF;">
+        </div>
+        <button class="ui button" type="submit" style="background-color: transparent; color: #FFA3FD; border: 1px solid #865DFF;">Add</button>
+    </form>
+
+    {% for todo in todo_list %}
+        <div class="ui segment wrap" style="border-color: #865DFF;">
+            <p class="ui big header">№{{todo.id}} {{todo.title}}</p>
+            {% if todo.is_complete == False %}
+            <span class="ui gray label">Undone</span>
+            <a href="/update/{{todo.id}}" class="ui button" style="color: #E384FF; background-color: transparent; border: 1px solid #865DFF;">Close</a>
+            {% else %}
+            <span class="ui label" style="background-color: #FFA3FD; color: white;">Done</span>
+            <a href="/update/{{todo.id}}" class="ui button" style="color: #E384FF; background-color: transparent; border: 1px solid #865DFF;">Open</a>
+            {% endif %}
+            <a href="/delete/{{todo.id}}" class="ui negative basic button">Delete</a>
+        </div>
+    {% endfor %}
+</div>
+
+
+{% endblock content %}

@@ -1,0 +1,43 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Main.gd" type="Script" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+
+[node name="Main" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_horizontal_guides_": [  ]
+}
+
+[node name="Cell" type="Sprite" parent="."]
+scale = Vector2( 0.5, 0.5 )
+texture = ExtResource( 2 )
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.5
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="Stopped" type="Label" parent="Canvas"]
+margin_right = 58.0
+margin_bottom = 14.0
+text = "STOPPED"
+
+[node name="Running" type="Label" parent="Canvas"]
+visible = false
+margin_top = 1.0
+margin_right = 63.0
+margin_bottom = 32.0
+text = "RUNNING"
+
+[node name="Count" type="Label" parent="Canvas"]
+visible = false
+margin_top = 20.0
+margin_right = 50.0
+margin_bottom = 34.0
+text = "COUNT:"
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
