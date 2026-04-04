@@ -4,9 +4,9 @@
 
 <div align="center">
 
-![Profile Views](https://disk.yandex.ru/i/kcM0YbARII0R2A)
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/7d301b2a-5e9d-452b-a232-9a1b4e4f73fe" />
 
-📍 **Saint Petersburg, Russia** | 🎓 **SPbGUPTD, 4th Year Bachelor**
+📍 **Санкт-Петербург, Россия** | 🎓 **СПбГУПТД, 4 Курс Бакалавриата**
 
 📧 [davedi.isme@gmail.com](mailto:davedi.isme@gmail.com) | 💬 [@dav_edi](https://t.me/dav_edi) | 🌐 [davedi.tilda.ws](https://davedi.tilda.ws/)
 
@@ -49,11 +49,14 @@
 - 📁 [GitHub Repository](https://github.com/DreamTeam25/dreamteambighousev3)
 - 🎯 **Мой вклад**: UI/UX дизайн, фронтенд разработка, координация команды
 
-<img src="https://via.placeholder.com/800x400/0ea5e9/ffffff?text=DreamTeam+BigHouse" width="100%" alt="DreamTeam BigHouse Preview" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15409fc1-d83a-4eaa-a9bb-46d0f1f61b2a" />
 
 **Технологический стек:**
-- React с TypeScript для типобезопасности
-- Tailwind CSS для современного UI
+- JS для обработки получаеммых данных, а также для гибкости функкионала сайта
+- Supabase для хранения информации о клиентах
+- CSS для современного UI
+- EmaiJS для отправки заяки клиента сотруднику для моментального реагирования
+- Дублирование заявки сотруднику через телеграм бота
 - Vercel для быстрого развёртывания
 - Git для совместной разработки
 
@@ -65,7 +68,7 @@
 Интерактивный терминал для управления криптовалютными операциями и портфелем.
 
 - 📁 [GitHub Repository](https://github.com/Dav-Edi/crypto-term-vault)
-- 🛠 **Технологии**: Vite, TypeScript, React, shadcn-ui, Tailwind CSS
+- 🛠 **Технологии**: Vite, TypeScript, CSS
 - 💡 **Особенности**: Реал-тайм обновления, интуитивный интерфейс, безопасность данных
 
 <img src="https://via.placeholder.com/800x400/059669/ffffff?text=Crypto+Terminal+Vault" width="100%" alt="Crypto Terminal Preview" />
