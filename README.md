@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dav-Edi&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://disk.yandex.ru/i/kcM0YbARII0R2A)
 
 📍 **Saint Petersburg, Russia** | 🎓 **SPbGUPTD, 4th Year Bachelor**
 
