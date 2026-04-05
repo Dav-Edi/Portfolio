@@ -1,4 +1,4 @@
-# 👨‍💼 Dav-Edi | Project & Product Manager
+# Dav-Edi | Project & Product Manager
 
 **Technical Leader | Data Analyst | UI/UX Designer**
 
@@ -8,7 +8,7 @@
 
 📍 **Санкт-Петербург, Россия** | 🎓 **СПбГУПТД, 4 Курс Бакалавриата**
 
-📧 [davedi.isme@gmail.com](mailto:davedi.isme@gmail.com) | 💬 [@dav_edi](https://t.me/dav_edi) | 🌐 [davedi.tilda.ws](https://davedi.tilda.ws/)
+📧 [davedi.isme@gmail.com](mailto:edi@davletovs.ru) | 💬 [@dav_edi](https://t.me/dav_edi) | 🌐 [davedi.tilda.ws](https://davedi.tilda.ws/)
 
 </div>
 
@@ -32,9 +32,19 @@
 ### 🏢 **Data Analyst** — БФТ-Холдинг
 **Стажировка, 5 месяцев**
 
-- Анализ больших объёмов данных в телеком и финансовом секторе
-- Подготовка отчётов и рекомендаций для руководства
-- Работа с ключевыми метриками и KPI
+- Рефакторинг UML и BPMN нотаций
+- Организация сбора, обработки и хранения данных, включая неструктурированные данные и данные в нестандартном формате
+- Предобработка, очистка и подготовка данных для дальнейшего анализа
+- Работа с госреестрами
+- Написание/редактирование ТЗ
+
+---
+
+## 💼 Мой сайт-портфолио
+
+Дополнительные проекты, детальное резюме и контакты доступны на личном сайте:
+
+🌐 **[davedi.tilda.ws](https://davedi.tilda.ws/)**
 
 ---
 
@@ -59,71 +69,6 @@
 - Дублирование заявки сотруднику через телеграм бота
 - Vercel для быстрого развёртывания
 - Git для совместной разработки
-
----
-
-### 2. 🔐 **Crypto Terminal Vault**
-**TypeScript + React | Финтех приложение**
-
-Интерактивный терминал для управления криптовалютными операциями и портфелем.
-
-- 📁 [GitHub Repository](https://github.com/Dav-Edi/crypto-term-vault)
-- 🛠 **Технологии**: Vite, TypeScript, CSS
-- 💡 **Особенности**: Реал-тайм обновления, интуитивный интерфейс, безопасность данных
-
-<img src="https://via.placeholder.com/800x400/059669/ffffff?text=Crypto+Terminal+Vault" width="100%" alt="Crypto Terminal Preview" />
-
----
-
-### 3. 📚 **Token Verse Vocab**
-**TypeScript + React | Образовательная платформа**
-
-Интерактивный словарь для изучения блокчейн и крипто-терминологии.
-
-- 📁 [GitHub Repository](https://github.com/Dav-Edi/token-verse-vocab)
-- 🛠 **Технологии**: Vite, TypeScript, React, Tailwind CSS
-- 🎓 **Назначение**: Обучение и справочный материал для криптокоммьюнити
-
-<img src="https://via.placeholder.com/800x400/7c3aed/ffffff?text=TokenVerse+Vocabulary" width="100%" alt="Token Verse Preview" />
-
----
-
-### 4. 🎮 **GameDev Projects**
-**Godot | Unity | Python**
-
-Опыт разработки игр с использованием современных игровых движков:
-- 🐍 **Snake 3D** — 3D игра на Godot с интерактивным геймплеем
-- 🏰 **Tower Creation** — стратегическая игра на Unity
-
-📁 [Полный список GameDev проектов →](https://github.com/Dav-Edi/Portfolio/tree/master/GameDev)
-
----
-
-### 5. 🤖 **Telegram Bots**
-**Python | aiogram**
-
-Различные боты для Telegram с использованием асинхронного программирования и API интеграции.
-
-- 📁 [Telegram Bots Repository](https://github.com/Dav-Edi/Portfolio/tree/master/Python%20Projects/Telegram%20bots)
-- 🛠 **Технологии**: Python, aiogram, asyncio
-
----
-
-### 6. 🧠 **AI Chemistry Analyzer**
-**Python | Jupyter Notebook | Data Science**
-
-Проект по анализу химических данных с использованием машинного обучения и статистики.
-
-- 📁 [GitHub Repository](https://github.com/Dav-Edi/AIChemp_ITsMO-than-you-need-)
-- 📊 **Особенности**: Data preprocessing, анализ паттернов, визуализация результатов
-
----
-
-## 💼 Мой сайт-портфолио
-
-Дополнительные проекты, детальное резюме и контакты доступны на личном сайте:
-
-🌐 **[davedi.tilda.ws](https://davedi.tilda.ws/)**
 
 ---
 
@@ -169,18 +114,6 @@
 | 📊 Data Analysis | Specialized Training | ✅ Completed |
 
 📄 **[Все сертификаты в деталях →](https://github.com/Dav-Edi/Portfolio/tree/master/Certificates)**
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav-Edi&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dav-Edi&show_icons=true&theme=radical)
-
-</div>
 
 ---
 
