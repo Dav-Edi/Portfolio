@@ -82,9 +82,10 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Frontend & UI**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tilda](https://img.shields.io/badge/Tilda-0099FF?style=for-the-badge&logo=tilda&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Tools & Platforms**  
@@ -129,7 +130,7 @@
 
 | Канал | Контакт |
 |-------|---------|
-| 📧 **Email** | [davedi.isme@gmail.com](mailto:davedi.isme@gmail.com) |
+| 📧 **Email** | [davedi.isme@gmail.com](mailto:edi@davletovs.com) |
 | 💬 **Telegram** | [@dav_edi](https://t.me/dav_edi) |
 | 🌐 **Website** | [davedi.tilda.ws](https://davedi.tilda.ws/) |
 | 👨‍💻 **GitHub** | [@Dav-Edi](https://github.com/Dav-Edi) |
